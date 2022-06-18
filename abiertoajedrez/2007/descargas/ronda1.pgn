@@ -1,0 +1,216 @@
+[Event "II Torneo Internacional de Granada"]
+[Site "Granda"]
+[Date "2007/8/31"]
+[Round "1"]
+[White "Fernandez, Jose"]
+[Black "G.M Damljanovic, Branko"]
+[Result "0-1"]
+[Board "1"]
+[Input "DGT4056"]
+[Owner "Federacion Espanola de Ajedrez"]
+[WhiteClock "1:30:25"]
+[BlackClock "1:30:30"]
+[Clock "W/0:00:12"]
+
+1. e4 { [%clk 1:30:53] } c5 { [%clk 1:30:53] } 2. Nf3 { [%clk 1:31:01] } e6 {
+[%clk 1:31:16] } 3. d4 { [%clk 1:30:52] } cxd4 { [%clk 1:31:44] } 4. Nxd4 {
+[%clk 1:31:00] } a6 { [%clk 1:32:06] } 5. Nc3 { [%clk 1:30:49] } Qc7 { [%clk
+1:31:19] } 6. Bd3 { [%clk 1:30:31] } Bc5 { [%clk 1:31:39] } 7. Nb3 { [%clk
+1:29:54] } Be7 { [%clk 1:32:06] } 8. O-O { [%clk 1:28:23] } Nf6 { [%clk
+1:32:24] } 9. f4 { [%clk 1:26:14] } d6 { [%clk 1:31:46] } 10. Qe2 { [%clk
+1:22:49] } Nbd7 { [%clk 1:32:07] } 11. Bd2 { [%clk 1:19:40] } b5 { [%clk
+1:10:29] } 12. Rae1 { [%clk 1:12:54] } Bb7 { [%clk 0:55:15] } 13. e5 { [%clk
+0:59:50] } Nd5 { [%clk 0:38:29] } 14. Qg4 { [%clk 0:36:03] } g6 { [%clk
+0:36:09] } 15. exd6 { [%clk 0:27:30] } Qxd6 { [%clk 0:35:26] } 16. Kh1 { [%clk
+0:21:07] } N5f6 { [%clk 0:31:12] } 17. Qe2 { [%clk 0:20:38] } Rc8 { [%clk
+0:30:46] } 18. f5 { [%clk 0:12:36] } gxf5 { [%clk 0:27:52] } 19. Bf4 { [%clk
+0:12:51] } Qb6 { [%clk 0:27:54] } 20. Bxf5 { [%clk 0:12:19] } Rg8 { [%clk
+0:27:30] } 21. Bg3 { [%clk 0:12:06] } h5 { [%clk 0:27:19] } 22. Bh3 { [%clk
+0:08:26] } b4 { [%clk 0:21:20] } 23. Nd1 { [%clk 0:08:49] } a5 { [%clk
+0:20:58] } 24. Bf2 { [%clk 0:05:37] } Qa6 { [%clk 0:20:55] } 25. Qe3 { [%clk
+0:04:37] } Ng4 { [%clk 0:20:37] } 26. Qd2 { [%clk 0:02:23] } Ndf6 { [%clk
+0:20:34] } 27. Bh4 { [%clk 0:01:11] } Ne4 { [%clk 0:16:10] } 28. Qf4 { [%clk
+0:01:06] } f6 { [%clk 0:15:16] } 29. Ne3 { [%clk 0:00:37] } Bd6 { [%clk
+0:14:32] } 30. Qf3 { [%clk 0:01:05] } Ng3+ { [%clk 0:14:55] } 31. Qxg3 { [%clk
+0:00:41] } Bxg3 { [%clk 0:15:10] } 0-1
+
+[Event "II Torneo Internacional de Granada"]
+[Site "Granda"]
+[Date "2007/8/31"]
+[Round "1"]
+[White "G.M Korneev, Oleg"]
+[Black "Garcia, Ramon"]
+[Result "*"]
+[Board "2"]
+[Input "DGT2731"]
+[Owner "Federacion Espanola de Ajedrez"]
+[WhiteClock "1:30:30"]
+[BlackClock "1:30:30"]
+[Clock "W/1:30:30"]
+
+*
+
+[Event "II Torneo Internacional de Granada"]
+[Site "Granda"]
+[Date "2007/8/31"]
+[Round "1"]
+[White "Rodriguez, Angela"]
+[Black "G.M Strikovic, Aleksa"]
+[Result "0-1"]
+[Board "3"]
+[Input "DGT4172"]
+[Owner "Federacion Espanola de Ajedrez"]
+[WhiteClock "1:30:30"]
+[BlackClock "1:30:30"]
+[Clock "B/0:49:33"]
+
+1. e4 { [%clk 1:30:56] } c5 { [%clk 1:30:53] } 2. d3 { [%clk 1:31:22] } d5 {
+[%clk 1:31:05] } 3. exd5 { [%clk 1:31:16] } Qxd5 { [%clk 1:31:27] } 4. Nc3 {
+[%clk 1:27:47] } Qd7 { [%clk 1:31:50] } 5. Nf3 { [%clk 1:27:11] } Nc6 { [%clk
+1:32:13] } 6. Bf4 { [%clk 1:25:39] } f6 { [%clk 1:31:55] } 7. Qe2 { [%clk
+1:14:21] } e5 { [%clk 1:26:22] } 8. O-O-O { [%clk 1:01:11] } Bd6 { [%clk
+1:25:53] } 9. d4 { [%clk 0:46:24] } Qg4 { [%clk 1:09:46] } 10. Bg3 { [%clk
+0:30:19] } Nxd4 { [%clk 1:03:54] } 11. Nxd4 { [%clk 0:29:07] } cxd4 { [%clk
+1:04:18] } 12. f3 { [%clk 0:21:38] } Qe6 { [%clk 1:03:49] } 13. Nb5 { [%clk
+0:20:46] } Bb8 { [%clk 1:00:30] } 14. f4 { [%clk 0:15:27] } Ne7 { [%clk
+0:58:04] } 15. fxe5 { [%clk 0:14:10] } fxe5 { [%clk 0:58:29] } 16. Re1 { [%clk
+0:14:10] } Nc6 { [%clk 0:56:39] } 17. Bxe5 { [%clk 0:03:51] } Nxe5 { [%clk
+0:56:43] } 18. Nxd4 { [%clk 0:04:02] } Qh6+ { [%clk 0:56:45] } 19. Kb1 { [%clk
+0:04:20] } O-O { [%clk 0:56:55] } 20. Qb5 { [%clk 0:03:33] } Qd6 { [%clk
+0:51:32] } 21. Bc4+ { [%clk 0:02:14] } Nxc4 { [%clk 0:49:08] } 22. Qxc4+ {
+[%clk 0:02:36] } Kh8 { [%clk 0:49:35] } 23. Rhf1 { [%clk 0:02:44] } Bd7 {
+[%clk 0:49:33] } 24. Qe2 { [%clk 0:00:00] } 0-1
+
+[Event "II Torneo Internacional de Granada"]
+[Site "Granda"]
+[Date "2007/8/31"]
+[Round "1"]
+[White "G.M Campora, Daniel"]
+[Black "Jimenez, Martin"]
+[Result "1-0"]
+[Board "4"]
+[Input "DGT4170"]
+[Owner "Federacion Espanola de Ajedrez"]
+[WhiteClock "1:30:28"]
+[BlackClock "1:30:30"]
+[Clock "B/0:24:57"]
+
+1. e4 { [%clk 1:30:57] } c5 { [%clk 1:30:37] } 2. f4 { [%clk 1:31:19] } d6 {
+[%clk 1:29:46] } 3. Nf3 { [%clk 1:31:26] } Nc6 { [%clk 1:29:19] } 4. Bb5 {
+[%clk 1:31:40] } e6 { [%clk 1:26:10] } 5. Bxc6+ { [%clk 1:32:01] } bxc6 {
+[%clk 1:26:33] } 6. d3 { [%clk 1:32:22] } g6 { [%clk 1:26:08] } 7. O-O { [%clk
+1:32:32] } Bg7 { [%clk 1:26:18] } 8. Qe2 { [%clk 1:32:19] } Ne7 { [%clk
+1:26:07] } 9. c4 { [%clk 1:32:28] } O-O { [%clk 1:26:05] } 10. Kh1 { [%clk
+1:32:08] } Rb8 { [%clk 1:20:40] } 11. Nc3 { [%clk 1:32:24] } Ba6 { [%clk
+1:16:16] } 12. Qe1 { [%clk 1:24:53] } d5 { [%clk 1:05:37] } 13. b3 { [%clk
+1:23:44] } Kh8 { [%clk 0:54:37] } 14. Bd2 { [%clk 1:22:14] } Ng8 { [%clk
+0:47:30] } 15. e5 { [%clk 1:20:55] } Qe7 { [%clk 0:45:50] } 16. Na4 { [%clk
+1:20:56] } Rfd8 { [%clk 0:44:50] } 17. Be3 { [%clk 1:18:49] } d4 { [%clk
+0:40:22] } 18. Bc1 { [%clk 1:19:12] } Bf8 { [%clk 0:34:56] } 19. Ba3 { [%clk
+1:19:09] } Rb4 { [%clk 0:31:47] } 20. Ng5 { [%clk 1:18:55] } Bc8 { [%clk
+0:25:24] } 21. Nxc5 { [%clk 1:15:15] } 1-0
+
+[Event "II Torneo Internacional de Granada"]
+[Site "Granda"]
+[Date "2007/8/31"]
+[Round "1"]
+[White "Delgado, Jose"]
+[Black "G.M Paunovic, Dragan"]
+[Result "0-1"]
+[Board "5"]
+[Input "DGT4165"]
+[Owner "Federacion Espanola de Ajedrez"]
+[WhiteClock "0:00:00"]
+[BlackClock "1:30:30"]
+[Clock "W/0:00:00"]
+
+0-1
+
+[Event "II Torneo Internacional de Granada"]
+[Site "Granda"]
+[Date "2007/8/31"]
+[Round "1"]
+[White "G.M Movsziszian, Karen"]
+[Black "Cruz, Francisco"]
+[Result "1-0"]
+[Board "6"]
+[Input "DGT4118"]
+[Owner "Federacion Espanola de Ajedrez"]
+[WhiteClock "1:30:26"]
+[BlackClock "1:30:30"]
+[Clock "B/0:15:51"]
+
+1. e4 { [%clk 1:30:55] } e5 { [%clk 1:30:51] } 2. Nf3 { [%clk 1:31:20] } Nc6 {
+[%clk 1:31:03] } 3. Bb5 { [%clk 1:31:48] } a6 { [%clk 1:31:05] } 4. Ba4 {
+[%clk 1:32:16] } Nf6 { [%clk 1:30:56] } 5. d3 { [%clk 1:32:43] } b5 { [%clk
+1:30:51] } 6. Bb3 { [%clk 1:33:11] } Bb7 { [%clk 1:31:14] } 7. O-O { [%clk
+1:31:53] } Bc5 { [%clk 1:31:19] } 8. Nc3 { [%clk 1:30:09] } d6 { [%clk
+1:29:16] } 9. a4 { [%clk 1:24:32] } b4 { [%clk 1:24:36] } 10. Nd5 { [%clk
+1:07:40] } h6 { [%clk 1:14:57] } 11. c3 { [%clk 1:05:18] } a5 { [%clk 1:14:04]
+} 12. Be3 { [%clk 0:55:55] } Bxe3 { [%clk 1:10:16] } 13. fxe3 { [%clk 0:56:10]
+} Nxd5 { [%clk 1:02:01] } 14. Bxd5 { [%clk 0:56:36] } Rb8 { [%clk 0:59:22] }
+15. Qe1 { [%clk 0:38:19] } O-O { [%clk 0:59:30] } 16. Qg3 { [%clk 0:37:49] }
+Ne7 { [%clk 0:58:17] } 17. Bc4 { [%clk 0:32:45] } Nc6 { [%clk 0:54:39] } 18.
+Nh4 { [%clk 0:32:35] } Qg5 { [%clk 0:54:03] } 19. Qxg5 { [%clk 0:31:54] } hxg5
+{ [%clk 0:54:26] } 20. Ng6 { [%clk 0:32:14] } Rbd8 { [%clk 0:49:18] } 21. Nxf8
+{ [%clk 0:31:05] } Rxf8 { [%clk 0:49:46] } 22. Rf5 { [%clk 0:30:02] } g6 {
+[%clk 0:49:03] } 23. Rxg5 { [%clk 0:30:15] } Kg7 { [%clk 0:49:27] } 24. Bd5 {
+[%clk 0:29:36] } bxc3 { [%clk 0:46:54] } 25. bxc3 { [%clk 0:30:03] } Nd8 {
+[%clk 0:47:14] } 26. Bxb7 { [%clk 0:29:44] } Nxb7 { [%clk 0:47:35] } 27. d4 {
+[%clk 0:30:02] } f6 { [%clk 0:47:25] } 28. Rg3 { [%clk 0:30:09] } c5 { [%clk
+0:47:16] } 29. Rb1 { [%clk 0:30:23] } Rf7 { [%clk 0:47:29] } 30. Rb5 { [%clk
+0:29:54] } Rc7 { [%clk 0:46:04] } 31. Rf3 { [%clk 0:30:04] } d5 { [%clk
+0:43:36] } 32. dxe5 { [%clk 0:29:46] } fxe5 { [%clk 0:43:51] } 33. exd5 {
+[%clk 0:30:13] } 1-0
+
+[Event "II Torneo Internacional de Granada"]
+[Site "Granda"]
+[Date "2007/8/31"]
+[Round "1"]
+[White "Pintor, Antonio"]
+[Black "G.M Barsov, Alexei"]
+[Result "0-1"]
+[Board "7"]
+[Input "DGT4123"]
+[Owner "Federacion Espanola de Ajedrez"]
+[WhiteClock "1:30:29"]
+[BlackClock "1:30:30"]
+[Clock "W/0:16:30"]
+
+1. d4 { [%clk 1:30:57] } d5 { [%clk 1:30:56] } 2. c4 { [%clk 1:31:22] } e6 {
+[%clk 1:31:22] } 3. Nc3 { [%clk 1:31:45] } Bb4 { [%clk 1:31:46] } 4. Nf3 {
+[%clk 1:20:57] } Ne7 { [%clk 1:31:58] } 5. e3 { [%clk 1:19:59] } c5 { [%clk
+1:32:06] } 6. Bd3 { [%clk 1:16:18] } Nbc6 { [%clk 1:32:00] } 7. O-O { [%clk
+1:16:09] } cxd4 { [%clk 1:32:08] } 8. exd4 { [%clk 1:16:27] } dxc4 { [%clk
+1:32:34] } 9. Bxc4 { [%clk 1:16:48] } O-O { [%clk 1:33:00] } 10. Bb3 { [%clk
+1:14:11] } Qa5 { [%clk 1:27:58] } 11. Bc2 { [%clk 1:07:50] } Rd8 { [%clk
+1:27:00] } 12. Qd3 { [%clk 0:55:28] } Ng6 { [%clk 1:26:49] } 13. Bg5 { [%clk
+0:55:04] } Be7 { [%clk 1:26:49] } 14. Be3 { [%clk 0:52:53] } Nb4 { [%clk
+1:26:49] } 15. Qe2 { [%clk 0:52:23] } Nxc2 { [%clk 1:25:07] } 16. Qxc2 { [%clk
+0:52:44] } Bd7 { [%clk 1:25:34] } 17. Rfd1 { [%clk 0:51:29] } Bc6 { [%clk
+1:25:59] } 18. Nd2 { [%clk 0:51:23] } Nh4 { [%clk 1:25:24] } 19. f3 { [%clk
+0:46:14] } Nf5 { [%clk 1:20:41] } 20. Nc4 { [%clk 0:40:03] } Qb4 { [%clk
+1:08:12] } 21. Qd3 { [%clk 0:39:12] } Nxe3 { [%clk 1:06:13] } 22. Nxe3 { [%clk
+0:39:34] } Bf6 { [%clk 1:06:36] } 23. Nc2 { [%clk 0:39:29] } Qb6 { [%clk
+1:06:44] } 24. Kh1 { [%clk 0:35:06] } Rac8 { [%clk 1:06:54] } 25. b4 { [%clk
+0:31:47] } g6 { [%clk 1:02:45] } 26. b5 { [%clk 0:20:08] } Bd5 { [%clk
+1:02:23] } 27. a4 { [%clk 0:19:31] } Bb3 { [%clk 0:59:42] } 28. Ra3 { [%clk
+0:17:48] } Bxc2 { [%clk 0:58:37] } 29. Qxc2 { [%clk 0:18:10] } Rxd4 { [%clk
+0:58:39] } 30. Rd3 { [%clk 0:16:58] } Qc5 { [%clk 0:56:26] } 0-1
+
+[Event "II Torneo Internacional de Granada"]
+[Site "Granda"]
+[Date "2007/8/31"]
+[Round "1"]
+[White "G.M Matamoros, Carlos"]
+[Black "Delgado, Andres"]
+[Result "1-0"]
+[Board "8"]
+[Input "DGT2729"]
+[Owner "Federacion Espanola de Ajedrez"]
+[WhiteClock "1:30:28"]
+[BlackClock "1:30:30"]
+[Clock "B/0:00:00"]
+
+1. c4 { [%clk 1:30:57] } 1-0
+

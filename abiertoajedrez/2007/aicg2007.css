@@ -1,0 +1,113 @@
+body{
+	background-repeat:repeat;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin: 5px 0px 0px 0px;
+	padding: 0px;
+	font-size: 12px;
+	color:#000000;
+	background-color: #070F1D;
+	
+}
+p {
+	text-align:justify;
+	}
+h1 {
+	font-size:14px;
+	font-weight: bold;
+	
+	width:100%;
+	background-image: url(titulofondo.jpg);
+	text-align: left;
+	}
+h4 {
+	font-size:12px;
+	font-weight:bold;}
+.fondocuerpo{
+	width:770px;
+	background-color: #FFFFFF;
+	background-image: url(bordelateral.jpg);
+}
+.fotosaludo{
+	float:left;
+	margin: 0px 5px 5px 0px;
+	}
+a{
+	color: #EC7C00;
+	text-decoration: none;
+	font-size: 13px;
+	font-weight: bold;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+
+a:hover{
+	color:#0D1E40;
+}
+
+a.parpadeo{
+	color: #D69639;
+	text-decoration: blink;
+	font-size: 13px;
+	font-weight:bold;
+	
+}
+
+#fecha {
+	font-size: 12px;
+	color: #392C7B;
+	font-weight:bold;
+	float: right;
+}
+.infos{
+	color:#000000;
+	font-weight: bold;
+	font-size: 13px;
+}
+a.menu_rondas{
+	font-size:12px;
+	text-align:center;
+}
+.menu_rondas_inactivo{
+	font-size:12px;
+	text-align:center;
+	color: #FFE3C6;
+	font-weight:bold;
+}
+.ronda {
+	font-weight:bold;
+	color:#000000;}
+	
+.num_ronda {
+	color:#FFFFFF; 
+	background-color: #FFA848; 
+	padding: 0px 5px;
+}
+/************* #Intro ***************/
+#a.entrar {
+	text-decoration:blink;
+	
+}
+
+/************* #siteInfo styles ***************/
+#siteInfo {
+}
+#siteInfo img{
+	vertical-align: middle;
+	border-width: 0px 0px 0px 0px;
+}
+#siteInfo a{
+	color:#000000;}
+#siteInfo a:hover {
+	color:#FF9933;}
+#siteInfo a.validacion {
+	color:#FF9933;
+	font-weight:normal;
+}
+#siteInfo a.creadopor{
+	font-size:11px;
+	font-weight:bold;
+}
+/************* #descargas***************/
+
+img { border:none;
+	}
